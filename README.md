@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**danielsdq/danielsdq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel e sou formado em **Análise e Desenvolvimento de Sistemas**.  
+Tenho experiência acadêmica nas seguintes tecnologias:
 
-Here are some ideas to get you started:
+- **Java**
+- **MySQL**
+- **HTML**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca de uma nova oportunidade de emprego na área de Programação!
+
+## Sobre mim
+
+Sou apaixonado por desenvolvimento e estou sempre disposto a aprender novas tecnologias e desafios.  
+Durante minha formação, participei de projetos acadêmicos utilizando Java, bancos de dados MySQL, além de construir páginas web com HTML e CSS. Tenho algusn repositorios com programas em java com integração ao MySQL. entre eles cadastro, exclusao, pesquisa, reposicionamento de produtos e cliente entre outros projetos.
+
+## Projetos
+
+Acesse meus repositórios para visualizar alguns dos projetos que desenvolvi durante minha graduação.
+---
+
+Obrigado por visitar minha página! Entre em contato caso queira conversar sobre oportunidades ou parcerias.
+
+## Contato
+
+- Linkedin [daniel-dias-b8430a137](www.linkedin.com/in/daniel-dias-b8430a137)
+- Email: daniel_sdq@yahoo.com.br
