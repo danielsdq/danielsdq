@@ -24,5 +24,5 @@ Obrigado por visitar minha página! Entre em contato caso queira conversar sobre
 
 ## Contato
 
-- Linkedin [daniel-dias-b8430a137](www.linkedin.com/in/daniel-dias-b8430a137)
+- Linkedin: [linkedin.daniel-dias-b](www.linkedin.com/in/daniel-dias-b8430a137)
 - Email: daniel_sdq@yahoo.com.br
